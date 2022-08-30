@@ -3,7 +3,7 @@
 ## I'm Ella 👋
 :bowtie: I'm an Information Technology-Programmer Analyst student at NBCC. 
 
-🌱 I'm an aspiring full-stack web developer (late bloomer for my current age).
+🌱 I'm an aspiring frontend web developer (late bloomer for my current age).
 
 
 ## Let's connect
