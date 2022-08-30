@@ -7,11 +7,9 @@
 
 💁 More information in my [LinkedIn](https://www.linkedin.com/in/ellamoldez/)
 
-## Skills
-
-
 ## Let's connect
-
+[<img src="" height="40em" align="center" alt="Follow Ella on Twitter" title="Follow Ella on Twitter"/>](https://twitter.com/MoldezElle)
+[<img src="" height="40em" align="center" alt="Follow Ella on Instagram" title="Follow Ella on Instagram"/>](https://www.instagram.com/ellamoldez/)
 
 
 <!--
