@@ -1,4 +1,4 @@
-<img src="https://github.com/EllaMoldez/EllaMoldez/blob/main/header_git.png">
+<img src="https://github.com/EllaMoldez/EllaMoldez/blob/main/header-git.png">
 
 ## Hello World! I'm Ella 👋
 :profile: I'm an Information Technology-Programmer Analyst student at NBCC. 
