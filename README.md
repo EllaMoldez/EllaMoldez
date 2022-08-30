@@ -1,11 +1,11 @@
 <img src="https://github.com/EllaMoldez/EllaMoldez/blob/main/header-github.png">
 
 ## I'm Ella 👋
-:bowtie: I'm an Information Technology-Programmer Analyst student at NBCC. 
+😊 I'm an Information Technology-Programmer Analyst student at NBCC. 
 
 🌱 I'm an aspiring frontend web developer (late bloomer for my current age).
 
-More information in my [LinkedIn](https://www.linkedin.com/in/ellamoldez/)
+🔗 More information in my [LinkedIn](https://www.linkedin.com/in/ellamoldez/)
 
 ## Skills
 
