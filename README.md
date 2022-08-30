@@ -1,7 +1,7 @@
 <img src="https://github.com/EllaMoldez/EllaMoldez/blob/main/header-github.png">
 
-## Hello World! I'm Ella 👋
-:profile: I'm an Information Technology-Programmer Analyst student at NBCC. 
+## I'm Ella 👋
+:bowtie: I'm an Information Technology-Programmer Analyst student at NBCC. 
 
 🌱 I'm an aspiring full-stack web developer (late bloomer for my current age).
 
