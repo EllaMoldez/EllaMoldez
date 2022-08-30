@@ -7,6 +7,8 @@
 
 💁 More information in my [LinkedIn](https://www.linkedin.com/in/ellamoldez/)
 
+
+
 ## Let's Connect 👬
 [<img src="https://github.com/EllaMoldez/EllaMoldez/blob/main/socialmedias/twitter.svg" height="40em" align="center" alt="Follow Ella on Twitter" title="Follow Ella on Twitter"/>](https://twitter.com/MoldezElle)
 [<img src="https://github.com/EllaMoldez/EllaMoldez/blob/main/socialmedias/instagram.svg" height="40em" align="center" alt="Follow Ella on Instagram" title="Follow Ella on Instagram"/>](https://www.instagram.com/ellamoldez/)
