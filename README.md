@@ -5,7 +5,7 @@
 
 🌱 I'm an aspiring frontend web developer (late bloomer for my current age).
 
-🔗 More information in my [LinkedIn](https://www.linkedin.com/in/ellamoldez/)
+💁 More information in my [LinkedIn](https://www.linkedin.com/in/ellamoldez/)
 
 ## Skills
 
