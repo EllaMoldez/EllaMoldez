@@ -3,9 +3,11 @@
 ## About Me 👋
 😊 I'm an Information Technology-Programmer Analyst student at NBCC (Moncton Campus). 
 
-🌱 I’m currently learning JavaScript, Angular, React
+🌱 I’m currently learning HTML, CSS, JavaScript, Angular, React
 
-🌱 I'm an aspiring frontend web developer (late bloomer for my current age).
+👩 I'm an aspiring frontend web developer (late bloomer for my current age).
+
+📧 You can reach me ellemoldez@gmail.com
 
 💁 More information in my [LinkedIn](https://www.linkedin.com/in/ellamoldez/)
 
