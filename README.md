@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, React
 
-👩 I'm an aspiring frontend web developer (late bloomer for my current age).
+👩 I'm an aspiring frontend web developer.
 
 📧 You can reach me ellemoldez@gmail.com
 
