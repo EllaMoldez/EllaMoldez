@@ -1,7 +1,7 @@
 <img src="https://github.com/EllaMoldez/EllaMoldez/blob/main/header-github.gif">
 
 # About Me 
-😊 I'm an Information Technology-Programmer Analyst student at NBCC (Moncton Campus). 
+😊 I completed my diploma in Information Technology-Programmer Analyst at NBCC (Moncton Campus). 
 
 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, React
 
