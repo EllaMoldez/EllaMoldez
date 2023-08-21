@@ -3,9 +3,9 @@
 # About Me 
 😊 I completed my diploma in Information Technology-Programmer Analyst at NBCC (Moncton Campus). 
 
-🌱 I’m currently learning HTML, CSS, JavaScript, Angular, React
+🌱 Transitioning from master data management to data analysis.
 
-👩 I'm an aspiring frontend web developer.
+👩 Love learning.
 
 📧 You can reach me ellemoldez@gmail.com
 
